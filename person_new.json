@@ -1,0 +1,21 @@
+{
+  "firstName": "Jason",
+  "lastName": "POJO",
+  "age": 42,
+  "address": {
+    "Street": "Baker-Street",
+    "Country": "USA",
+    "State": "Texas",
+    "Zip-code": 4227
+  },
+  "phone numbers": [
+    {
+      "type": "home",
+      "number": "+79123945"
+    },
+    {
+      "type": "mobile",
+      "number": "+73126409234"
+    }
+  ]
+}
